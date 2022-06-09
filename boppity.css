@@ -1,0 +1,27 @@
+body {
+	background-color: #01012b;
+	font-family: 'Fira Sans', sans-serif;
+	color: #d1f7ff;
+}
+
+h1 {
+	color: #05d9e8;
+	text-align: center;
+	margin-left: 20px;
+	font-family: 'Nixie One', cursive;
+}
+
+h2 {
+	color: #005678;
+	text-align: center;
+	margin-left: 20px;
+	font-family: 'Prompt', sans-serif;
+}
+
+a:link {
+	color: #ff2a6d;	
+}
+a:visited {
+	color: #FF6978;
+}
+/* Adding comments because I can!*/ 
